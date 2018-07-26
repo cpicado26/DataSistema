@@ -33,11 +33,11 @@ namespace DataSistema.Pages
             {
                 MenuItems = new ObservableCollection<MenuPageMenuItem>(new[]
                 {
-                    new MenuPageMenuItem { Id = 0, Title = "Page 1",Icon ="web_hi_res_512.png" },
-                    new MenuPageMenuItem { Id = 1, Title = "Page 2" ,Icon ="web_hi_res_512.png"},
-                    new MenuPageMenuItem { Id = 2, Title = "Page 3" ,Icon ="web_hi_res_512.png"},
-                    new MenuPageMenuItem { Id = 3, Title = "Page 4" ,Icon ="web_hi_res_512.png"},
-                    new MenuPageMenuItem { Id = 4, Title = "Page 5" ,Icon ="web_hi_res_512.png"},
+                    new MenuPageMenuItem { Id = 0, Title = "Contactos",Icon ="ic_account.png" },
+                    new MenuPageMenuItem { Id = 1, Title = "Equipos" ,Icon ="ic_equipo.png"},
+                    new MenuPageMenuItem { Id = 2, Title = "Notas" ,Icon ="ic_notas.png"},
+                    new MenuPageMenuItem { Id = 3, Title = "Opciones" ,Icon ="ic_config.png"},
+                    new MenuPageMenuItem { Id = 4, Title = "Acerca de" ,Icon ="ic_acercade.png"},
                 });
             }
             

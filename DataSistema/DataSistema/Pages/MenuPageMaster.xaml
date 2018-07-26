@@ -24,7 +24,7 @@
           </Grid.RowDefinitions>
                     <StackLayout Orientation="Horizontal" Grid.Column="1"              Grid.Row="1">
                         <Image 
-                            Source="web_hi_res_512.png" 
+                            Source="ic_menu.png" 
                             WidthRequest="50"  ></Image>
                         <Label            VerticalOptions="Center"
                             Text="Menu"
